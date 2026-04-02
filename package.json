@@ -1,0 +1,34 @@
+{
+  "name": "@cabdi_waaxid/tree-gen",
+  "version": "1.0.0",
+  "description": "Generate folders and files from ASCII tree structure or path lists",
+  "main": "./parser.js",
+  "bin": {
+    "tree-gen": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "generator",
+    "tree",
+    "scaffold",
+    "file-system",
+    "structure",
+    "boilerplate"
+  ],
+  "author": "Cabdi Waaxid Siciid",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabdiwaaxid-so/tree-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cabdiwaaxid-so/tree-gen/issues"
+  },
+  "homepage": "https://github.com/cabdiwaaxid-so/tree-gen#readme",
+  "files": [
+    "index.js",
+    "parser.js",
+    "README.md",
+    "package.json"
+  ]
+}
